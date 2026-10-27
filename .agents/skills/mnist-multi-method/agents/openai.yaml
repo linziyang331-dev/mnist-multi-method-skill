@@ -1,0 +1,4 @@
+interface:
+  display_name: "多方式手写数字识别"
+  short_description: "研究并实现 MNIST 经典分类器、PCA/LDA 降维与 MLP/CNN 对照实验"
+  default_prompt: "使用 $mnist-multi-method，根据提供的文章或现有代码完成 MNIST 多方式手写数字识别的原理研究、实现或实验审查，并区分计划与实测结果。"

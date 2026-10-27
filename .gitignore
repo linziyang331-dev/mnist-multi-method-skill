@@ -1,0 +1,23 @@
+# Local input archive and generated experiment outputs
+/mnist_deep_learning_complete.zip
+/outputs/
+/data/
+/runs/
+/predictions/
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local environment settings
+.env
+.env.*
+!.env.example

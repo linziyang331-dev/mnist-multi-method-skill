@@ -1,0 +1,4 @@
+Tool: official skill-creator/scripts/quick_validate.py
+UTF-8 mode: enabled
+Exit code: 0
+Skill is valid!
